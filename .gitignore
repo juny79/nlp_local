@@ -14,3 +14,4 @@ outputs/
 *.bin
 *.zip
 prediction/
+/venv311/*
